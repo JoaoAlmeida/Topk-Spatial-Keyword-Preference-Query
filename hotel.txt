@@ -1,0 +1,504 @@
+786 45.4826927 12.2328787 (tourism) (hotel) Hotel Plaza
+787 45.4828938 12.2319729 (tourism) (hotel) Hotel Bologna
+901 45.5238046 12.7029242 (tourism) (hotel) Maracaibo
+904 45.5239529 12.7036716 (tourism) (hotel) Gallia
+905 45.5247179 12.7035586 (tourism) (hotel) Harvey
+1048 45.7634941 11.8042643 (tourism) (hotel) Villa Palma
+1074 45.4977868 12.4179374 (tourism) (hotel) Locanda Cipriani
+1223 45.2006864 11.6876111 (tourism) (hotel) Hotel Oasi
+1379 45.4180713 11.8972899 (tourism) (hotel) Accademia Palace Hotel Padova
+1525 45.4997259 12.6284889 (tourism) (hotel) Smeraldo
+1526 45.4994581 12.6283344 (tourism) (hotel) Helvetia
+1527 45.4975604 12.6218967 (tourism) (hotel) Sant'Ambrogio
+1532 45.4969963 12.6183902 (tourism) (hotel) Principe Palace
+1536 45.4990773 12.6279848 (tourism) (hotel) Atene
+1537 45.4987756 12.6282147 (tourism) (hotel) Ancora
+1538 45.4985677 12.6278404 (tourism) (hotel) Corallo
+1539 45.4982227 12.6264664 (tourism) (hotel) Rivamare
+1541 45.4989258 12.6262129 (tourism) (hotel) Jesulum
+1542 45.498449 12.6248606 (tourism) (hotel) Edelweiss
+1544 45.4980825 12.6234878 (tourism) (hotel) Sorrento
+1545 45.4978513 12.6229075 (tourism) (hotel) Piccadilly
+1546 45.4982399 12.6221802 (tourism) (hotel) Imperia
+1555 45.4894532 12.6031032 (tourism) (hotel) Trevi
+1556 45.4895925 12.6026012 (tourism) (hotel) Roma
+1557 45.4899759 12.6027116 (tourism) (hotel) Milton
+1558 45.4885722 12.6001554 (tourism) (hotel) Arizona
+1561 45.4851517 12.5924513 (tourism) (hotel) Bigalle
+1582 45.5039846 12.6415155 (tourism) (hotel) Windsor
+1594 45.4955774 12.6181003 (tourism) (hotel) Excelsior
+1601 45.5177542 12.6809955 (tourism) (hotel) Sheila
+1602 45.5177957 12.6805538 (tourism) (hotel) Hotel Tampico
+1603 45.516148 12.6779074 (tourism) (hotel) Coppe
+1604 45.5160324 12.6774621 (tourism) (hotel) Parkhotel Peru
+1605 45.5133889 12.6697935 (tourism) (hotel) Riviera
+1607 45.5129756 12.6684712 (tourism) (hotel) Svecia & Scandinavia
+1608 45.510945 12.6619698 (tourism) (hotel) Adriatic Palace
+1609 45.5084105 12.6516911 (tourism) (hotel) Astomare
+1611 45.5053462 12.6474716 (tourism) (hotel) Marina
+1614 45.5038825 12.641539 (tourism) (hotel) Orizzonte
+1615 45.5037879 12.6412973 (tourism) (hotel) Vidi Miramare & Delfino
+1616 45.5033579 12.641014 (tourism) (hotel) Re Souvenir
+1617 45.5023692 12.6359559 (tourism) (hotel) Metropol
+1618 45.4995078 12.6306132 (tourism) (hotel) Casa Bianca al Mare
+1619 45.5011823 12.6298946 (tourism) (hotel) Colombo
+1675 45.4168803 11.8793985 (tourism) (hotel) Grand'Italia
+1685 45.4775249 12.2304051 (tourism) (hotel) Hotel Martello
+1712 45.622507 12.558543 (tourism) (hotel) Hotel San Marco
+1720 45.765319 11.7278364 (tourism) (hotel) Victoria
+1794 45.7344903 12.2504177 (tourism) (hotel) Trattoria Alle Castrette
+1806 45.4946958 12.1576594 (tourism) (hotel) Hotel Raffaello
+1851 45.4105058 11.8963215 (tourism) (hotel) Hotel Galileo
+1868 45.6781202 12.26882 (tourism) (hotel) Hotel Carletto
+1882 45.4475105 12.3268377 (tourism) (hotel) Residenza Cannaregio
+1919 45.7799257 11.8477124 (tourism) (hotel) Hotel Ezzelino
+2010 45.5576875 12.2350573 (tourism) (hotel) Hotel La meridiana
+2016 45.6674182 12.5375352 (tourism) (hotel) Omnia Hotel
+2056 45.6108615 12.2364306 (tourism) (hotel) Hotel Magnolia
+2068 45.4128802 11.8922739 (tourism) (hotel) NH Mantegna
+2073 45.4026932 12.3646911 (tourism) (hotel) Rivamare
+2180 45.5574638 12.2998173 (tourism) (hotel) Gamma
+2185 45.4302305 12.3277725 (tourism) (hotel) Belle Arti
+2191 45.2072372 11.8923846 (tourism) (hotel) Point Hotel Conselve
+2193 45.4574355 12.1853879 (tourism) (hotel) Villa Dori
+2222 45.4161032 11.9332583 (tourism) (hotel) Sheraton
+2245 45.4289997 12.3285797 (tourism) (hotel) La Calcina
+2342 45.6547326 12.4275083 (tourism) (hotel) Park Hotel Villa Fiorita
+2377 45.5060352 12.2377103 (tourism) (hotel) Hotel Ariston
+2378 45.5047118 12.2373991 (tourism) (hotel) Club Hotel
+2403 45.5698384 12.1244816 (tourism) (hotel) Hotel Antico Mulino
+3323 45.4347273 12.3451876 (tourism) (hotel) Bisanzio
+3330 45.5902057 12.2344802 (tourism) (hotel) Park Hotel Villa Vicini
+3378 45.4355379 12.3365544 (tourism) (hotel) Antica Locanda al Gambero
+3410 45.2267021 11.6544281 (tourism) (hotel) Albergo Ristorante Leon D'Oro
+3544 45.4366122 12.3419478 (tourism) (hotel) al Piave
+3549 45.4374108 12.3412622 (tourism) (hotel) Scandinavia
+3555 45.4385444 12.3429071 (tourism) (hotel) Locanda SS. Giovanni e Paolo
+3558 45.4358035 12.344546 (tourism) (hotel) Liasidi Palace
+3767 45.4832389 12.2356456 (tourism) (hotel) Hotel Regit Essebiesse Srl
+3776 45.4316384 12.3331068 (tourism) (hotel) Gritti Palace
+3864 45.4403896 12.3347316 (tourism) (hotel) Foscari Palace
+4075 45.4378235 12.3406544 (tourism) (hotel) Ruzzini Palace
+4122 45.5616727 12.2392103 (tourism) (hotel) Hotel Villa Stuky
+4169 45.4379408 12.337518 (tourism) (hotel) Bartolomeo
+4180 45.5610958 12.2316974 (tourism) (hotel) Hotel Style
+4181 45.5607691 12.2342078 (tourism) (hotel) Hotel Duca d'Aosta
+4185 45.5589849 12.2344815 (tourism) (hotel) Hotel Villa Foscarini
+4239 45.5593215 12.2597882 (tourism) (hotel) Hotel Da Danilo
+4271 45.4329159 12.3341744 (tourism) (hotel) Saturnia
+4387 45.3492121 11.8678666 (tourism) (hotel) Hotel Colonna
+4407 45.2233907 12.280418 (tourism) (hotel) Hotel Grande Italia
+13680 45.47054 12.5434964 (tourism) (hotel) Hotel Ca' di Valle
+13681 45.4697914 12.5438237 (tourism) (hotel) Hotel Junior
+13683 45.4697707 12.5442582 (tourism) (hotel) international hotel
+17797 45.2317285 11.8707857 (tourism) (hotel) Hotel Oasi
+19648 45.5879395 12.3544258 (tourism) (hotel)
+37651 45.2631571 11.7169644 (tourism) (hotel) Villa Del Poeta
+37655 45.4970826 12.6193969 (tourism) (hotel) Eden
+37741 45.50373 12.222448 (tourism) (hotel) Moro Lin
+37749 45.5338674 12.0222402 (tourism) (hotel) Hotel Le Colombelle
+37758 45.4377292 12.1369937 (tourism) (hotel) Villa Franceschi Venice
+37759 45.4795932 12.1688843 (tourism) (hotel) B&B Fuori Strada
+37773 45.2126815 12.2944681 (tourism) (hotel) Bristol
+37781 45.2116508 12.2947044 (tourism) (hotel)
+37799 45.4302057 12.3297166 (tourism) (hotel) American
+37820 45.2030319 12.2994167 (tourism) (hotel) Park
+37821 45.1984734 12.3000497 (tourism) (hotel) Sole
+37834 45.4350843 12.3358848 (tourism) (hotel) Hotel Bonvecchiati
+37978 45.3560756 11.7865502 (tourism) (hotel) Hotel Quisisana Terme
+38125 45.4971932 12.2362235 (tourism) (hotel) Hotel Sirio
+38247 45.4375031 12.3371848 (tourism) (hotel) Ca' Leon D'Oro
+38270 45.3559962 11.7853658 (tourism) (hotel) Hotel Patria Terme
+38314 45.4299222 12.382367 (tourism) (hotel) Viktoria palace hotel
+38409 45.6030307 12.3380393 (tourism) (hotel) Hotel Caludia Augusta
+38437 45.4444866 12.3257814 (tourism) (hotel) Ca´ Pozzo
+38443 45.6253023 12.2385276 (tourism) (hotel) Hotel Crystal
+38453 45.6260028 12.2352267 (tourism) (hotel) Hotel al sole
+38463 45.435134 12.332125 (tourism) (hotel) San Giorgio
+38464 45.6804839 11.640487 (tourism) (hotel) Sweet Hotel Alla Veneziana
+38465 45.4341142 12.3432436 (tourism) (hotel) Paganelli
+38466 45.4389792 12.3211661 (tourism) (hotel) Hotel Gardena
+38504 45.4362207 12.3191025 (tourism) (hotel) Locanda Marinella
+38556 45.4418661 12.322053 (tourism) (hotel) Hotel Florida
+38557 45.4686861 12.5441512 (tourism) (hotel) Hotel Righetto
+38913 45.7689846 11.7409279 (tourism) (hotel) Piccolo Brennero
+38917 45.7693924 11.7385504 (tourism) (hotel) Brennero
+38930 45.7692221 11.7384991 (tourism) (hotel) Belvedere
+38995 45.4418385 12.3231358 (tourism) (hotel)
+38996 45.442182 12.3234159 (tourism) (hotel) Hotel Nazionale
+38997 45.4423652 12.3239286 (tourism) (hotel) di Spagna
+38998 45.442273 12.3237984 (tourism) (hotel) Continental
+39211 45.8108661 11.7738951 (tourism) (hotel) Locanda Tilly's
+39255 45.7628603 11.7315964 (tourism) (hotel) Dal Ponte
+39301 45.3438128 11.9636823 (tourism) (hotel) Baretta
+39302 45.4323866 12.3327565 (tourism) (hotel) Ala Venice
+39347 45.7704619 11.735495 (tourism) (hotel)
+39436 45.7709487 11.7404664 (tourism) (hotel) Palladio
+39438 45.7807986 11.7209534 (tourism) (hotel) Alla Corte
+39599 45.4368457 12.3416285 (tourism) (hotel) Casa Malipiero
+39610 45.8022806 11.906441 (tourism) (hotel) Villa Flangini
+39614 45.8030884 11.9136998 (tourism) (hotel) Albergo Al Sole
+39615 45.8021039 11.9138659 (tourism) (hotel) Duse
+39616 45.8024152 11.9101639 (tourism) (hotel) Hotel Villa Cipriani
+39617 45.7874244 11.9065376 (tourism) (hotel) Asolo
+39628 45.5058246 12.2820554 (tourism) (hotel) Hotel Altieri
+39657 45.6624013 12.2964955 (tourism) (hotel) Titan INN Treviso Airport
+39660 45.6627998 12.282512 (tourism) (hotel) Relais
+39682 45.7646565 11.74343 (tourism) (hotel) Bassanello
+39728 45.8001233 12.4926907 (tourism) (hotel) Villa dei Carpini
+39731 45.7767817 12.4912088 (tourism) (hotel) PrimHotel
+39733 45.78359 12.4948754 (tourism) (hotel) Postumia Hotel
+39842 45.7369177 12.309276 (tourism) (hotel) Hotel Ristorante Dotto
+44526 45.7902844 11.6906045 (tourism) (hotel) Alla Fontana
+44643 45.7417288 12.4834126 (tourism) (hotel) Al Gabbiano
+44654 45.6713553 11.9280978 (tourism) (hotel) Hotel Alla Torre
+48587 45.7700069 12.4948366 (tourism) (hotel) Al Gallo
+48702 45.7163171 12.4008725 (tourism) (hotel) Hotel Ristorante Colombo
+48721 45.6686146 12.18075 (tourism) (hotel) BHR Treviso Hotel
+48725 45.6721608 12.168562 (tourism) (hotel) All'Oasi
+48746 45.6598898 12.2604538 (tourism) (hotel) Aurora
+48776 45.7252273 12.2544485 (tourism) (hotel) Holiday La Marca
+48930 45.4183847 11.8742865 (tourism) (hotel) Al Cason
+48931 45.4058249 11.8754936 (tourism) (hotel) Majestic Toscanelli
+49014 45.6289033 11.7020488 (tourism) (hotel) Albergo Terzo Tempo
+49249 45.4092403 12.3692555 (tourism) (hotel) Albergo La meridiana
+49544 45.410865 11.877272 (tourism) (hotel) Hotel Europa
+49576 45.4084055 11.8711021 (tourism) (hotel) Albergo Verdi
+49626 45.4230192 12.3770352 (tourism) (hotel) Villa Mabapa
+49672 45.4021302 11.8816523 (tourism) (hotel) Casa del Pellegrino
+49673 45.4019695 11.8797515 (tourism) (hotel) Donatello
+49726 45.4000157 11.8782238 (tourism) (hotel) Hotel Mignon
+50297 45.5484056 12.0841736 (tourism) (hotel) Hotel Ristorante Due Torri Tempesta
+50354 45.7298806 11.8667963 (tourism) (hotel) Da Felice
+50726 45.4230845 12.0740565 (tourism) (hotel) Albergo alla Campana
+50952 45.7787359 12.1228032 (tourism) (hotel) Albergo Posta
+50995 45.7066883 12.4441544 (tourism) (hotel) Melody
+51081 45.4368756 12.3193943 (tourism) (hotel) Hotel Olimpia
+51083 45.4369124 12.3197238 (tourism) (hotel) Hotel Arlecchino
+51087 45.4391019 12.3210639 (tourism) (hotel) Hotel Walter
+51089 45.4392847 12.3211168 (tourism) (hotel) Hotel Canal
+51099 45.4421182 12.3233242 (tourism) (hotel) Hotel Il Moro di Venezia
+51105 45.4439163 12.3300837 (tourism) (hotel) Hotel Eden
+53207 45.4419819 11.7598091 (tourism) (hotel) Hotel La Loggia
+53221 45.4269187 11.7897346 (tourism) (hotel) El Rustego
+54252 45.6726962 11.9481153 (tourism) (hotel) Antica Locanda
+54991 45.8003364 11.7311143 (tourism) (hotel) Hotel Miramonti
+55142 45.4379412 12.2049765 (tourism) (hotel) Hote Palladio
+55143 45.4350603 12.1990147 (tourism) (hotel) Hotel Galimberti
+55159 45.4496865 12.1673173 (tourism) (hotel) Villa Dolcetti
+56918 45.7510961 11.7492032 (tourism) (hotel) Glamour Hotel
+56920 45.7489492 11.7501192 (tourism) (hotel) Al Camin
+56959 45.1343644 11.7079367 (tourism) (hotel) Hotel Villa Pisani
+56995 45.1349217 11.7560772 (tourism) (hotel) Hotel Giardino
+57004 45.5256904 12.699696 (tourism) (hotel) Hotel Oasi Verde
+57007 45.5224075 12.6970639 (tourism) (hotel) Hotel Carli
+57008 45.5158506 12.6783036 (tourism) (hotel) Hotel Carlton
+57009 45.5215692 12.6955078 (tourism) (hotel) Hotel Elite
+57010 45.5168441 12.6798529 (tourism) (hotel) Hotel Kennedy
+57011 45.5157779 12.6788154 (tourism) (hotel) Hotel Mon Repos
+57012 45.5212155 12.6929212 (tourism) (hotel) Hotel Palm Beach
+57013 45.5185596 12.6777711 (tourism) (hotel) Hotel Vianello
+57015 45.5165291 12.6788984 (tourism) (hotel) Residence Ideal Sole
+57016 45.5218964 12.692699 (tourism) (hotel) Villaggio Azzurro
+57018 45.5135216 12.6663672 (tourism) (hotel) Hotel Germania
+57019 45.513607 12.6693828 (tourism) (hotel) Hotel Storione
+57053 45.3556183 11.7854692 (tourism) (hotel) Hotel Principe Terme
+57079 45.7318548 12.4379624 (tourism) (hotel) Hotel ristorante alla Croce
+57189 45.5001782 12.6280281 (tourism) (hotel) Toledo
+58784 45.4398179 12.336821 (tourism) (hotel) al Vagon
+62933 45.5376198 12.7235697 (tourism) (hotel)
+63058 45.435735 12.3399538 (tourism) (hotel) Donà Palace
+63931 45.7950552 11.7225918 (tourism) (hotel) Fior di Loto
+66881 45.4915677 12.6062998 (tourism) (hotel) Il Teatro
+68008 45.6895854 11.8819008 (tourism) (hotel) Hotel Trattoria Sole
+69902 45.2287584 11.6564419 (tourism) (hotel) Hotel Centrale
+70645 45.7465239 12.000161 (tourism) (hotel) Villa Busta
+72801 45.6862657 11.9553571 (tourism) (hotel)
+72804 45.5038372 12.6429836 (tourism) (hotel) Boston
+72806 45.5040756 12.6435518 (tourism) (hotel) Napoleon
+72808 45.5035794 12.6421636 (tourism) (hotel) Continental
+72895 45.5043304 12.642468 (tourism) (hotel) Residence Diego Beach
+72898 45.2110728 12.2947268 (tourism) (hotel)
+75614 45.4149027 12.3677025 (tourism) (hotel) Villa Casanova
+77048 45.3510354 11.7586687 (tourism) (hotel)
+77173 45.6332989 12.2409299 (tourism) (hotel) Best Western Vila Place Hotel
+77176 45.4339234 12.3420457 (tourism) (hotel) Danieli
+77683 45.2371208 12.067304 (tourism) (hotel) Hotel La Corte
+77789 45.6982893 11.9928846 (tourism) (hotel) Hotel Ristorante Antica Postumia
+78583 45.2283493 11.6575874 (tourism) (hotel) Hotel Castello
+78598 45.493749 12.6139977 (tourism) (hotel) Hotel Oxford
+78617 45.6722661 11.9232053 (tourism) (hotel) Albergo Roma
+78619 45.6706595 11.9238107 (tourism) (hotel) Locanda Alla Speranza
+78645 45.4338399 12.3476633 (tourism) (hotel) Gabrielli
+78910 45.4282481 12.3200057 (tourism) (hotel) Molino Stucky
+78959 45.4310059 12.3267397 (tourism) (hotel) Palazzo Guardi
+78972 45.7799097 11.9942188 (tourism) (hotel) Hotel Corone
+79056 45.440842 12.3295061 (tourism) (hotel) Al Gallo
+79105 45.4416597 12.3354209 (tourism) (hotel) Palazzo Abadessa
+79188 45.4460813 12.3203839 (tourism) (hotel) Carnival Palace
+79268 45.4069537 11.8910972 (tourism) (hotel) Residenza Belzoni
+79437 45.5185207 12.6820436 (tourism) (hotel) Hotel Villa Rado
+79438 45.522144 12.6978847 (tourism) (hotel) Hotel Negresco
+79448 45.5256682 12.7091785 (tourism) (hotel) Hotel Mediterraneo
+79449 45.5220564 12.6971944 (tourism) (hotel) Hotel Bauer
+79450 45.5220714 12.6965346 (tourism) (hotel) Hotel Ermitage
+79451 45.5220376 12.6961376 (tourism) (hotel) Hotel Carli
+79453 45.5246347 12.7057024 (tourism) (hotel) Hotel Bellevue
+79462 45.5366413 12.6414879 (tourism) (hotel) Hotel Udinese
+79469 45.5137278 12.6706927 (tourism) (hotel) Hotel Reno
+79470 45.5118665 12.6665958 (tourism) (hotel) Hotel La Bussola
+79471 45.5129176 12.6703167 (tourism) (hotel) Hotel Caravelle
+79472 45.5126715 12.6661598 (tourism) (hotel) Hotel Gambrinius
+79473 45.5131208 12.6708832 (tourism) (hotel) Hotel Beny
+79482 45.5260618 12.7130421 (tourism) (hotel) Hotel King
+79483 45.5291811 12.7153113 (tourism) (hotel) Hotel Avana
+79484 45.5277117 12.7158906 (tourism) (hotel) Hotel Hungaria
+79485 45.5280687 12.7178326 (tourism) (hotel) Apparthotel La Pineta
+79486 45.5265542 12.7166792 (tourism) (hotel) Hotel Danmark
+79487 45.5265842 12.7159604 (tourism) (hotel) Hotel Bertha
+79488 45.5275576 12.7159282 (tourism) (hotel) Hotel Tivoli
+79489 45.4450607 11.6408361 (tourism) (hotel) Agriturismo La Sophora
+79490 45.5086173 12.6516328 (tourism) (hotel) Hotel Manzoni
+79491 45.5076812 12.6536981 (tourism) (hotel) Hotel London
+79492 45.5081323 12.6526896 (tourism) (hotel) Hotel Albatros
+79493 45.5083203 12.6510535 (tourism) (hotel) Hotel Ridente
+79495 45.5083127 12.6514397 (tourism) (hotel) Hotel Mara
+79496 45.5083955 12.6541756 (tourism) (hotel) Park Hotel Cellini
+79497 45.5066022 12.6511769 (tourism) (hotel) Hotel Villa Garda
+79498 45.5071661 12.6522283 (tourism) (hotel) Hotel Mondial
+79499 45.507215 12.6527433 (tourism) (hotel) Hotel Silva
+79500 45.5074781 12.6533387 (tourism) (hotel) Hotel Tritone
+79502 45.5082 12.6519118 (tourism) (hotel) Hotel Hollywood
+79506 45.5132218 12.6648931 (tourism) (hotel) Hotel Majorca
+79511 45.6116088 12.235803 (tourism) (hotel) Hotel Crystal
+79514 45.5212889 12.6887166 (tourism) (hotel) Villaggio Marzotto
+79525 45.5213498 12.693813 (tourism) (hotel) Hotel Vina Del Mar
+79531 45.7791316 11.7420627 (tourism) (hotel) Hotel Cà Sette
+79612 45.4431811 12.3246293 (tourism) (hotel) Hotel San Geremia
+79740 45.5740236 12.3653867 (tourism) (hotel) Crowne Plaza Venice East
+79826 45.3672206 12.1368239 (tourism) (hotel) Locanda Zabotto
+79920 45.7332535 12.6878536 (tourism) (hotel) Hotel Da Gigi
+79976 45.7755551 11.6640331 (tourism) (hotel) Ristorante La Rosina
+79985 45.6920704 11.7709971 (tourism) (hotel) Hotel Pigalle
+80337 45.8094084 11.9754288 (tourism) (hotel) La Locanda
+80348 45.4339604 12.3304447 (tourism) (hotel) Locanda Fiorita
+80429 45.4418843 12.3230075 (tourism) (hotel) Hotel Belle Epoque
+80528 45.439542 12.3365973 (tourism) (hotel) Lion Morosini
+80538 45.3938215 11.9340892 (tourism) (hotel) Ibis Padova
+80556 45.505743 12.6478903 (tourism) (hotel) Adlon
+80637 45.5179123 12.6840883 (tourism) (hotel) Mariver
+80811 45.4392098 12.3251573 (tourism) (hotel) Hotel Basilea
+80941 45.5051498 12.6448856 (tourism) (hotel) Hotel Venezuela
+81021 45.6636085 11.6645088 (tourism) (hotel) Nuovo Albergo di Scaldaferro
+81131 45.7008409 12.258896 (tourism) (hotel) Hotel "I 2 Ragni"
+81197 45.7427177 12.2487227 (tourism) (hotel) Residenza Cartiera
+81278 45.685379 12.2551228 (tourism) (hotel) Hotel "La Scala"
+81284 45.6467767 12.5134607 (tourism) (hotel) Albergo Italia
+81292 45.6845002 12.2541063 (tourism) (hotel)
+81377 45.434403 12.331209 (tourism) (hotel) Palazzo Paruta
+81516 45.4946137 11.79858 (tourism) (hotel) Al Melone
+81518 45.4901071 11.7991322 (tourism) (hotel) Promohotels
+81550 45.4423049 12.3233808 (tourism) (hotel) Hotel Moderno
+81661 45.4339519 12.3308136 (tourism) (hotel) Bloom B&B
+81662 45.4339657 12.3308208 (tourism) (hotel) Settimo Cielo B&B
+81686 45.6673362 11.8552073 (tourism) (hotel) Hotel Belie
+81829 45.7782216 12.5527614 (tourism) (hotel) Hotel Villa Foscarini
+81830 45.7801065 12.5534051 (tourism) (hotel) Hotel Villa Revedin
+81831 45.7461523 11.6585431 (tourism) (hotel) Albergo Europa
+81875 45.4992141 12.629837 (tourism) (hotel) Bellariva
+81879 45.3595607 12.0932125 (tourism) (hotel)
+81887 45.4771116 12.2170028 (tourism) (hotel) Al Piccolo Hotel
+82072 45.7687933 11.7335699 (tourism) (hotel) Al Castello
+82312 45.4903162 12.6035494 (tourism) (hotel) Arena
+82315 45.4902185 12.6032331 (tourism) (hotel) Bolivar
+82331 45.4915012 12.606968 (tourism) (hotel) Hotel Foscolo
+82332 45.491201 12.6066537 (tourism) (hotel) Hotel Ginevra
+82333 45.4906627 12.6071073 (tourism) (hotel) Hotel Heron
+82363 45.4910412 12.6082526 (tourism) (hotel) Hotel Panama
+82368 45.490407 12.6065494 (tourism) (hotel) Hotel Florida
+82369 45.4912918 12.6069506 (tourism) (hotel) Margherita Hotel
+82383 45.4901809 12.6059807 (tourism) (hotel) Hotel Elpiro
+82417 45.4833338 12.2562146 (tourism) (hotel) Delle Rose
+82459 45.4422148 12.3214269 (tourism) (hotel) Ca' Lucrezia
+82460 45.4420147 12.3217072 (tourism) (hotel) Hotel Abbazia
+82461 45.442158 12.3215065 (tourism) (hotel) Hotel Dolomiti
+82540 45.4399755 12.3365426 (tourism) (hotel) Antico Doge
+82552 45.4445651 12.3208555 (tourism) (hotel) Ca' Due Leoni
+82554 45.4458116 12.3188201 (tourism) (hotel) Ca' Fontanea
+82586 45.4251153 12.3267128 (tourism) (hotel)
+82785 45.5142554 11.8567229 (tourism) (hotel) Hotel Alle Scuole
+82817 45.4348998 12.346779 (tourism) (hotel) La Residenza
+82897 45.4157024 12.3716317 (tourism) (hotel) Ausonia & Hungaria
+82898 45.4193191 12.3800312 (tourism) (hotel) Venezia 2000
+82900 45.4563512 12.3554583 (tourism) (hotel) LaGare
+85722 45.4395222 12.3317935 (tourism) (hotel) Il Nido Di Giulietta E Romeo
+85725 45.499767 12.6235547 (tourism) (hotel) Hotel Tiffany's
+85889 45.4909799 12.5803027 (tourism) (hotel) Hotel "Da Vito" Garnì
+86039 45.7772655 12.6124321 (tourism) (hotel) Albergo Ristorante Disarò
+86040 45.7765549 12.6098556 (tourism) (hotel) Hotel Bertacco
+86137 45.4952594 12.6159356 (tourism) (hotel) Hotel Torino
+86194 45.4405951 12.3344725 (tourism) (hotel) Ca'Sagredo Hotel
+86195 45.4402652 12.3220307 (tourism) (hotel) Hotel Antiche Figure
+86196 45.440095 12.3218764 (tourism) (hotel) Hotel Carlton on the Grand Canal
+86197 45.4379769 12.3213051 (tourism) (hotel) Hotel Papadopoli
+86218 45.3541734 11.7736316 (tourism) (hotel) Abano Ritz
+86325 45.4152025 12.3722086 (tourism) (hotel) Villa Pannonia
+86350 45.4342999 12.3371338 (tourism) (hotel) Hotel Cavalletto
+86436 45.4141682 12.370224 (tourism) (hotel) Atlanta Augustus
+86456 45.4275019 12.3406434 (tourism) (hotel) Cipriani
+86461 45.4533631 12.353319 (tourism) (hotel) Hotel El Soffiador
+86508 45.4854775 12.2343796 (tourism) (hotel) Hotel Piave
+86642 45.6757844 12.2196145 (tourism) (hotel) Hotel Mezzaluna
+86644 45.3190721 11.7846586 (tourism) (hotel) Hotel Terme Millepini
+86648 45.4174309 12.3691958 (tourism) (hotel) Hotel Belvedere
+86731 45.4393993 12.0339896 (tourism) (hotel) Agritourismo Equinozio
+86797 45.4817116 11.8430803 (tourism) (hotel) Hotel Valbrenta
+86806 45.2053084 12.2940738 (tourism) (hotel) Hotel Nuova Doel
+86808 45.435067 12.3426449 (tourism) (hotel) Hotel Fontana
+86818 45.4459776 12.3303743 (tourism) (hotel) Ai Mori d`Oriente
+86819 45.4465128 12.3311304 (tourism) (hotel) Boscolo
+86829 45.4436296 12.3251787 (tourism) (hotel) Marte
+86832 45.382621 11.9028393 (tourism) (hotel) Hotel Volta
+86962 45.4900453 12.6041451 (tourism) (hotel) Salus
+86963 45.4906167 12.605214 (tourism) (hotel) International
+86974 45.4447805 12.3224034 (tourism) (hotel) Palazzo Cendon - Il Piano Nobile
+87059 45.7125939 12.4648387 (tourism) (hotel) Hotel Belvedere
+87060 45.7165755 12.4658686 (tourism) (hotel)
+87062 45.4803753 12.5728507 (tourism) (hotel) Albergo Rosa
+87071 45.4171885 12.3721954 (tourism) (hotel) Villa Edera
+87072 45.4176755 12.3734361 (tourism) (hotel)
+87132 45.3155735 12.3139421 (tourism) (hotel) Locanda Stravedo
+87151 45.4219942 11.9790777 (tourism) (hotel) Hotel Piccola Oasi
+87248 45.4848935 12.2404257 (tourism) (hotel)
+87249 45.4839702 12.241123 (tourism) (hotel)
+87361 45.4451668 12.3225025 (tourism) (hotel) Ca' Dogaressa
+87374 45.4420527 12.3217919 (tourism) (hotel) A La Locanda di Orsaria
+87375 45.4424676 12.3212068 (tourism) (hotel) Hotel Alloggi agli Artisti
+87376 45.4443071 12.3278284 (tourism) (hotel) Hotel Ariel Silva
+87377 45.4437527 12.3299342 (tourism) (hotel) Hotel La Forcola
+87378 45.4441892 12.3279161 (tourism) (hotel) Hotel Leonardo
+87379 45.4422527 12.3215095 (tourism) (hotel) Hotel Stella Alpina
+87458 45.4429817 12.324419 (tourism) (hotel) Hotel Guerrini
+87459 45.4431283 12.3241066 (tourism) (hotel) Hotel Rossi
+87487 45.4255739 12.3291792 (tourism) (hotel)
+87892 45.4385773 12.3192419 (tourism) (hotel) Santa Chiara hotel
+88092 45.4784974 12.2328761 (tourism) (hotel) Autoespresso
+88104 45.782108 12.0427628 (tourism) (hotel) Hotel Bellavista
+88128 45.2965538 11.8198435 (tourism) (hotel) Il Noce
+88182 45.43946 12.3212452 (tourism) (hotel) Hotel Airone
+88191 45.436187 12.3221322 (tourism) (hotel) Hotel Al Malcanton
+88192 45.4360605 12.322285 (tourism) (hotel) Hotel Locanda Gaffaro
+88193 45.4359592 12.3213738 (tourism) (hotel) Hotel Moresco
+88242 45.4409689 12.3241193 (tourism) (hotel) Cà Nigra Lagoon Resort
+88246 45.4384395 12.3392026 (tourism) (hotel) Hotel Santa Marina
+88289 45.3254433 11.7938341 (tourism) (hotel) Albergo Ai Buoni Amici
+88307 45.4425846 12.3241093 (tourism) (hotel) Hotel Adriatico
+88364 45.489003 12.6031636 (tourism) (hotel) Hotel Conchiglia
+88368 45.4408877 12.3304623 (tourism) (hotel) Hotel Al Ponte Mocenigo
+88369 45.4410952 12.3309843 (tourism) (hotel) Hotel Palazzo Giovanelli
+88382 45.4404874 12.3321875 (tourism) (hotel) Hotel San Cassiano
+88389 45.4409509 12.3253742 (tourism) (hotel) Albergo Doge
+88392 45.441337 12.3239794 (tourism) (hotel) Hotel Canal Grande
+88393 45.440887 12.3244331 (tourism) (hotel) Hotel ai Due Fanali
+88407 45.4437567 12.3264959 (tourism) (hotel) Hotel Arcadia
+88427 45.4436463 12.3264271 (tourism) (hotel) Hotel alle Guglie
+88448 45.4440317 12.325181 (tourism) (hotel) Hotel Biasin
+88476 45.4433618 12.3248689 (tourism) (hotel) Hotel Al Gobbo
+88477 45.4426587 12.3242325 (tourism) (hotel) Hotel Amadeus
+88478 45.4419336 12.3230673 (tourism) (hotel) Hotel Antica Casa Carettoni
+88479 45.4415592 12.3226212 (tourism) (hotel) Hotel B4 Bellini
+88480 45.4427261 12.3243481 (tourism) (hotel) Hotel Minerva
+88481 45.4417456 12.3228148 (tourism) (hotel) Hotel Universo e Nord
+101160 45.64799405 12.241269299999999 (tourism) (hotel) Hotel Maggior Consiglio
+107044 45.415894300000005 11.91937965 (tourism) (hotel) B4
+110645 45.424739849999995 11.935794000000001 (tourism) (hotel) Hotel "Le Padovanelle"
+110935 45.35159795 11.77765685 (tourism) (hotel) Palace Meggiorato
+110936 45.351254749999995 11.77660925 (tourism) (hotel) Savoia
+110937 45.351085600000005 11.77859565 (tourism) (hotel) Hotel Salus
+110938 45.403847999999996 12.366368 (tourism) (hotel) Excelsior
+111252 45.454099 11.85669055 (tourism) (hotel) Crowne Plaza Padova
+114070 45.2306277 11.659960850000001 (tourism) (hotel) Hotel Beatrice
+116215 45.28160905 11.76402785 (tourism) (hotel) Castello di Lispida
+116222 45.2892029 11.7683496 (tourism) (hotel) Hotel Splendid
+116684 45.322722850000005 11.7884583 (tourism) (hotel) Hotrel Marconi
+116685 45.3066183 11.73600785 (tourism) (hotel) Hotel Elite
+116687 45.323566 11.738348049999999 (tourism) (hotel) Piccolo marte
+116688 45.313243650000004 11.72912555 (tourism) (hotel) Albergo Ristorante Belvedere
+116690 45.3234382 11.78650805 (tourism) (hotel) Hotel Bellavista
+116778 45.330934 11.68537515 (tourism) (hotel) Albergo Ristorante Turetta
+116793 45.349148799999995 11.672228749999999 (tourism) (hotel) Hotel ristorante Villa Lussana
+117402 45.33070225 11.7816438 (tourism) (hotel) Hotel Terme Preistoriche
+117405 45.3307869 11.78327755 (tourism) (hotel) Hotel Petrarca
+117410 45.335750649999994 11.7316879 (tourism) (hotel) Hotel La Torre
+117417 45.3304497 11.78977315 (tourism) (hotel) Hotel Olimpya Terme
+117421 45.329819400000005 11.7844656 (tourism) (hotel) Hotel Vulcania
+117422 45.345509699999994 11.781830249999999 (tourism) (hotel) Verdi
+117423 45.325482550000004 11.7812631 (tourism) (hotel) Hotel Apollo
+117425 45.3251531 11.78333825 (tourism) (hotel) Hotel Commodore
+117427 45.3303033 11.7868853 (tourism) (hotel) Hotel Marco Polo
+117428 45.3417642 11.78448505 (tourism) (hotel) Hotel Antoniano
+117430 45.3311123 11.78789815 (tourism) (hotel) Hotel Elisio
+120587 45.209624950000006 11.832851300000002 (tourism) (hotel) Albergo Xibana
+126090 45.3524633 11.7784903 (tourism) (hotel) Due Torri
+126098 45.35001045 11.7774074 (tourism) (hotel) Hotel Mioni Pezzato & spa
+128551 45.37379905 11.91359125 (tourism) (hotel) Hotel Marconi
+128743 45.41208425 11.8635115 (tourism) (hotel) Hotel Milano
+128757 45.4098044 11.8697014 (tourism) (hotel) Hotel Plaza
+128766 45.399676400000004 11.87355765 (tourism) (hotel) Hotel M14
+128845 45.401124100000004 11.8888395 (tourism) (hotel) Hotel Maritan
+128867 45.411240500000005 11.8743437 (tourism) (hotel) Albergo San Antonio
+128869 45.4022182 11.90915595 (tourism) (hotel) Small Hotel Royal
+130345 45.496554599999996 12.2447069 (tourism) (hotel) Hotel Garibaldi
+131420 45.78163515 12.0565418 (tourism) (hotel) Hotel San Marco
+131650 45.679231650000006 11.93868095 (tourism) (hotel) Hotel Ristorante Fior
+132844 45.432876050000004 12.335836449999999 (tourism) (hotel) Bauers
+132863 45.432446999999996 12.336027900000001 (tourism) (hotel) Il Palazzo
+132902 45.42646405 12.3411376 (tourism) (hotel) Hotel Cipriani
+132933 45.66866365 12.225586700000001 (tourism) (hotel) Hotel Best Western Al Foghér
+132941 45.4455277 12.33047105 (tourism) (hotel) Antica Raffineria
+134301 45.45653245 12.21773555 (tourism) (hotel) Hotel Alle Torri
+135229 45.4159485 12.37403665 (tourism) (hotel) Hotel Villa Cipro
+135230 45.40738125 12.36561965 (tourism) (hotel) Hotel Villa Tiziana
+135231 45.4078413 12.368329450000001 (tourism) (hotel) Albegro Quattro Fontane
+135232 45.41644545 12.36895165 (tourism) (hotel) Hotel Helvetia
+135234 45.4172041 12.36881985 (tourism) (hotel) Hotel Riviera
+138607 45.514371499999996 12.2317862 (tourism) (hotel) Hotel B4
+139947 45.4757586 12.211854800000001 (tourism) (hotel) Hotel All Season
+140294 45.35414745 11.785628299999999 (tourism) (hotel) Abano GranD Hotel
+141959 45.6738528 11.927927 (tourism) (hotel) Al Moretto
+142049 45.34950875 11.67507195 (tourism) (hotel) Albergo Ristorante "Alla Posta"
+146278 45.4468087 12.4578772 (tourism) (hotel) Holiday Center Valdor
+146620 45.497076199999995 12.62399605 (tourism) (hotel) Hotel Manila
+146621 45.4882473 12.6018401 (tourism) (hotel) Hotel Las Vegas
+146623 45.4951719 12.6175286 (tourism) (hotel) Ambasciatori Palace
+146624 45.488692549999996 12.60084565 (tourism) (hotel) Amalfi
+146625 45.49705545 12.6236406 (tourism) (hotel) Hotel Nettuno
+146638 45.50056155 12.62980005 (tourism) (hotel) Stella d'Oro
+146761 45.650897900000004 12.30255595 (tourism) (hotel) Hotel Roy
+148604 45.5776767 12.266079399999999 (tourism) (hotel) Villa Condulmer Hotel
+148819 45.540353350000004 12.22799955 (tourism) (hotel) Park Hotel Villa Marcello Giustinian
+149002 45.215612050000004 12.2946703 (tourism) (hotel) Hotel Miramare
+149443 45.49249555 12.104929349999999 (tourism) (hotel) Art Hotel
+149461 45.49785355 12.1252193 (tourism) (hotel) Hotel Villa Giustinian
+149601 45.585080649999995 12.35343765 (tourism) (hotel) Villa Odino Junior
+149604 45.5810066 12.3664243 (tourism) (hotel) Hotel Ambra
+149936 45.4467375 12.1598422 (tourism) (hotel) Hotel Il Burchiello
+150012 45.48293425 12.2553826 (tourism) (hotel) Guidi
+150556 45.1327117 12.32077525 (tourism) (hotel) Pizzeria Alexander
+150560 45.13277225 12.32042835 (tourism) (hotel) Alexander
+150561 45.5839366 12.28652435 (tourism) (hotel) DoubleTree by Hilton Hotel Venice - North
+153984 45.806644399999996 12.61257225 (tourism) (hotel) Al Paradiso
+154618 45.594749 11.943927949999999 (tourism) (hotel) Locanda Aurilia
+155620 45.7932819 11.630885500000002 (tourism) (hotel) Albergo Ristorante "Al Ciclamino"
+157546 45.48192265 12.24900695 (tourism) (hotel) NH Hotel Laguna Palace
+158048 45.66699155 12.53619235 (tourism) (hotel) Base Hotel to work
+158221 45.326775749999996 11.7954615 (tourism) (hotel) Hotel Mioni Royal San
+158222 45.327885050000006 11.7929348 (tourism) (hotel) Hotel Terme Augustus
+158223 45.32867685 11.7949369 (tourism) (hotel) Hotel Sollievo
+158224 45.32507935 11.792153299999999 (tourism) (hotel) Hotel Continental
+158669 45.50346235 11.90762275 (tourism) (hotel) Ariston
+160943 45.39073125 11.9447254 (tourism) (hotel) Tulip Inn
+161823 45.80604645 11.78468385 (tourism) (hotel) Garden Relais
+164194 45.519794700000006 12.6878222 (tourism) (hotel) Villaggio Marzotto
+166752 45.6659908 12.5356269 (tourism) (hotel) Base Hotel to stay
+168067 45.32288855 11.785112 (tourism) (hotel) Hotel Imperial
