@@ -9,12 +9,12 @@ This code allows you to build an Inverted File or a Spatial Inverted Index (S2I)
 
 1. Open the input file "s2i\framework.properties"
 
-2. In "experiment.name" point the index you want. If you want an Inverted File set "experiment.name=IFBuildIndex", 
+2. In "experiment.name" point the index you want. For example, if you want an Inverted File set "experiment.name=IFBuildIndex", 
 if you want a S2I set "experiment.name=S2IBuildIndex"
 
 3. Set in "experiment.database" the database name (i.e. experiment.database = NorthAmerica)
 
-4. Describe the index file path in "experiment.folder". This folder has to be empty.
+4. Describe the index output file path in "experiment.folder". This folder has to be empty.
 
 	5. (Optional) if you are building a large index, set the s2i.fileCacheSize = 100000000. This will increase the indexing speed.
 
